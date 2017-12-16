@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SQLiteExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="register">Register</string>
+    <string name="retrieve">Retrieve</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_phone">Phone list</string>
+    <string name="error_name">Name list</string>
+    <string name="error_email">Email list</string>
+    <string name="error_invalid_email">Invalid email</string>
+    <string name="no_record_message">No record message</string>
+
+</resources>
